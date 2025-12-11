@@ -44,8 +44,7 @@ L’app include chat in tempo reale, canali tematici, chiamate vocali, condivisi
 ### **Frontend**
 | Tecnologia | 
 |-----------|
-| **React 19** | 
-| **TypeScript** |
+| **React 19 (TypeScript)** | 
 | **Vite** |
 | **SCSS Modules** |
 | **WebRTC** |
