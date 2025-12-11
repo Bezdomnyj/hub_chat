@@ -1,4 +1,4 @@
-# 🚀 Chat System — Real-Time Messaging Platform
+# Sistema di chat in tempo reale
 
 Un sistema completo di **messaggistica istantanea** sviluppato con **React 19**, **TypeScript**, **Node.js**, **MongoDB**, **WebSocket**, **SSE**, **Nginx**, **Prisma** e **Vite**.  
 L’app include chat in tempo reale, canali tematici, chiamate vocali, condivisione schermo e file sharing.
